@@ -1,5 +1,8 @@
 # todo
 
+## objectif
+Maitriser les concepts de base de vue et réaliser un premier projets s'appuyant sur cette [article](https://medium.com/@akotoro22/building-a-todo-app-with-vue-js-part-3-67810492218)
+
 ## Project setup
 ```
 npm install
